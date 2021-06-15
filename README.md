@@ -1,2 +1,2 @@
 # Water-Tracker
-This repository contains a project that I coded in Java. This project is called the Water Tracker and it analyzes how much water is used by the user and provides feedback based on the amount.
+The goal of the program is to be able to give the usage amounts, average usage, indicate whether it is high, low, or good, give facts about water, teach about the value of water, and much more. The fun part about the program is that it will give points to the user based on their water usage.
